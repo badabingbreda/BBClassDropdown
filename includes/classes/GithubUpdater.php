@@ -274,9 +274,6 @@ class GithubUpdater {
 
         return $data;
 
-
-
-
 	}
 
 	/**
